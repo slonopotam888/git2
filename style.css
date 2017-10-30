@@ -1,0 +1,8 @@
+body {
+	background: #ccc;
+}
+
+body p {
+	color:red;
+	font-size: 18px;
+}
